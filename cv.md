@@ -1,4 +1,5 @@
 # **Kalyaganova Varvara**
+![Фотография](/photo.jpg "Фотография")
 ## **Contacts**:
 - ## **Phone**: +7 987 437 71 46
 - ## **Email**: <KVarvara63@mail.ru>
