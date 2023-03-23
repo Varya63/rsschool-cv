@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-.hheader {
+.hheader{
     width: 60%;
     margin: 40px auto;
 }
@@ -27,36 +27,36 @@
     width: 40%;
     margin-left: 240px;
 }
-.content {
+.content{
     display: flex;
 }
-.left {
+.left{
     width: 30%;
     background-color: antiquewhite;
     text-align: center;
 }
-.left .contact {
+.left .contact{
     margin-top: 100px;
 }
 .contact h2{
     margin: 20px 0;
 }
-.contact h4 {
+.contact h4{
     font-size: 20px;
     margin: 10px 0;
 }
-.skills h2 {
+.skills h2{
     margin-top: 35px;
 }
 .skills p{
     margin: 10px 0;
 }
-.right {
+.right{
     width: 70%;
     padding: 50px;
     background-color: rgb(232, 225, 218);
 }
-.right .objective {
+.right .objective{
     margin-top: 50px;
 }
 .right p{
@@ -65,12 +65,12 @@
     font-size: 18px;
     margin-top: 12px;
 }
-.right .study {
+.right .study{
     margin: 50px 0;
 }
-.right .experience {
+.right .experience{
     margin: 50px 0;
 }
-.right .courses {
+.right .course{
     margin: 50px 0;
 }
