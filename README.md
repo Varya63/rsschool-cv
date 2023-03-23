@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Varya63.github.io/rsschool-cv/

@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hheader {
+    width: 60%;
+    margin: 40px auto;
+}
+
+.hheader .header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(38, 70, 57);
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.header img{
+    width: 150px;
+    height: 150 px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 70px;
+}
+
+.header-text{
+    color: antiquewhite;
+    width: 40%;
+    margin-left: 240px;
+}
+
+.content {
+    display: flex;
+}
+
+.left {
+    width: 30%;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.left .contact {
+    margin-top: 100px;
+}
+
+.contact h2{
+    margin: 20px 0;
+}
+
+.contact h4 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.skills h2 {
+    margin-top: 35px;
+}
+
+.skills p{
+    margin: 10px 0;
+}
+
+.right {
+    width: 70%;
+    padding: 50px;
+    background-color: rgb(232, 225, 218);
+}
+
+.right .objective {
+    margin-top: 50px;
+}
+
+.right p{
+    margin-right: 70px;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: 12px;
+}
+
+.right .study {
+    margin: 50px 0;
+}
+
+.right .experience {
+    margin: 50px 0;
+}
+
+.right .courses {
+    margin: 50px 0;
+}
